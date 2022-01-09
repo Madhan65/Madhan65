@@ -11,7 +11,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Madhan65.Madhan65)
 
 ### ⚡Tools & Platforms⚡:
-
+<!-- 
 <p align="left"> 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="60" height="60"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/> </a>
@@ -21,7 +21,7 @@
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="60" height="60"/> </a>
 <a href="https://nginx.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="60" height="60"/> </a>
 </p>
-
+ -->
 ### ⚡Front End⚡:
 
 <!-- <p align="left"> 
