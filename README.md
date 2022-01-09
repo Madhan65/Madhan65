@@ -1,14 +1,14 @@
-### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Edson Frainlar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Madhan 65! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Product Engineer and DevSecOps Engineer at <a href="http://www.ktern.com">KTern.AI</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>I am learning about MERN stack web development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/EdsonFrainlar?label=Follow)](https://twitter.com/intent/follow?screen_name=EdsonFrainlar)
-[![Linkedin: edson-frainlar](https://img.shields.io/badge/edson-frainlar?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edson-frainlar/)](https://www.linkedin.com/in/edson-frainlar/)
-![GitHub followers](https://img.shields.io/github/followers/Frainlar?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://edsonfrainlar.com/)](https://edsonfrainlar.com/)
-![](https://visitor-badge.glitch.me/badge?page_id=Frainlar.Frainlar)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/EdsonFrainlar?label=Follow)](https://twitter.com/intent/follow?screen_name=EdsonFrainlar) -->
+[![Linkedin: edson-frainlar](https://img.shields.io/badge/edson-frainlar?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madhan65/)](https://www.linkedin.com/in/madhan65/)
+![GitHub followers](https://img.shields.io/github/followers/Madhan65?label=Follow&style=social)
+<!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://edsonfrainlar.com/)](https://edsonfrainlar.com/) -->
+![](https://visitor-badge.glitch.me/badge?page_id=Madhan65.Madhan65)
 
 ### ⚡Tools & Platforms⚡:
 
