@@ -1,10 +1,8 @@
 ### Hi there 👋
+# Madhan65
 
 
-**Madhan65/Madhan65** is# Madhan65
-
-
-[![Github](https://img.shields.io/github/followers/antonfrancisjeejo?label=Follow&style=social)](https://github.com/antonfrancisjeejo)
+[![Github](https://img.shields.io/github/followers/Madhan65?label=Follow&style=social)](https://github.com/Madhan65)
 [![Linkedin](https://img.shields.io/badge/Anton%20Francis%20Jeejo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/francis-n-v-886b1a198/)](https://www.linkedin.com/in/francis-n-v-886b1a198/)
 
 
