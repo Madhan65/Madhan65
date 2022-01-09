@@ -39,17 +39,17 @@ I'm a learning about full MERN stack developer. I like to work with React, Fireb
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=antonfrancisjeejo&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=antonfrancisjeejo&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Madhan65&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan65&hide=css,java,html&theme=tokyonight">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antonfrancisjeejo" alt="Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Madhan65" alt="Views" /> </p>
 
 ### GITHUB TROPHIES
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=antonfrancisjeejo)](https://github.com/ryo-ma/github-profile-trophy)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Madhan65)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=antonfrancisjeejo)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Madhan65)  
  a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
