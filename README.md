@@ -24,7 +24,7 @@
 
 ### ⚡Front End⚡:
 
-<p align="left"> 
+<!-- <p align="left"> 
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.128b6e12eb85d013bc9f80a917f57efe.svg" alt="tailwindCSS" width="60" height="60"/> </a> 
 <a href="https://ant.design/" target="_blank"> <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="60" height="60"/> </a> 
 <a href="https://styled-components.com/" target="_blank"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styled components" width="60" height="60"/> </a> 
@@ -34,10 +34,10 @@
 <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Next.js" width="60" height="60"/> </a>
 <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original-wordmark.svg" alt="Next.js" width="60" height="60"/> </a>
 </p>
-
+ -->
 ### ⚡Back End⚡:
 
-<p align="left"> 
+<!-- <p align="left"> 
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/> </a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="60" height="60"/> </a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/> </a>
@@ -48,9 +48,9 @@
 <a href="https://mochajs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha Test" width="60" height="60"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/> </a>
 <a href="https://nestjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="NestJS" width="60" height="60"/> </a>
-</p>
+</p> -->
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+<!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const Frainlar = {
@@ -76,11 +76,11 @@ const Frainlar = {
 	funFact: 'There are two ways to write error-free programs; only the third one works',
 };
 ```
-### <b>⚡📈 My GitHub Statistics 📈⚡</b>
+### <b>⚡📈 My GitHub Statistics 📈⚡</b> -->
 
 <p align="left">
-<img width="400" align="left" height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frainlar&" alt="Frainlar" />
-<img width="400" align="left" height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Frainlar&show_icons=true&locale=en" alt="Frainlar" />
+<img width="400" align="left" height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhan65&" alt="Madhan65" />
+<img width="400" align="left" height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Madhan65&show_icons=true&locale=en" alt="Madhan65" />
 </p>
 
 
