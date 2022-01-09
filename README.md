@@ -10,8 +10,7 @@
 
 
 ## About me 
-I'm a full stack developer. I like to work with React, Firebase, AWS, MongoDB, NodeJS and Python. 
-I'm a open-source development enthusiast, an instructor and a freelancer.
+I'm a learning about full MERN stack developer. I like to work with React, Firebase, AWS, MongoDB, and NodeJS. 
 
 
 ### "Code until you find your solution"! 👋
