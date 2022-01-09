@@ -3,7 +3,7 @@
 
 
 [![Github](https://img.shields.io/github/followers/Madhan65?label=Follow&style=social)](https://github.com/Madhan65)
-[![Linkedin](https://img.shields.io/badge/Madhan%206%205-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/madhan-kumar-92b9b022a/)](https://www.linkedin.com/in/francis-n-v-886b1a198/)
+<!-- [![Linkedin](https://img.shields.io/badge/Madhan%2065%20-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/madhan-kumar-92b9b022a/)](https://www.linkedin.com/in/madhan-kumar-92b9b022a//) -->
 
 
 
