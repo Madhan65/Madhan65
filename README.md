@@ -11,6 +11,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Madhan65.Madhan65)
 
 ### ⚡Tools & Platforms⚡:
+
 <!-- 
 <p align="left"> 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="60" height="60"/> </a>
@@ -23,18 +24,9 @@
 </p>
  -->
 ### ⚡Front End⚡:
+<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 
-<!-- <p align="left"> 
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.128b6e12eb85d013bc9f80a917f57efe.svg" alt="tailwindCSS" width="60" height="60"/> </a> 
-<a href="https://ant.design/" target="_blank"> <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="60" height="60"/> </a> 
-<a href="https://styled-components.com/" target="_blank"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styled components" width="60" height="60"/> </a> 
-<a href="https://angular.io/" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="60" height="60"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="Next.js" width="60" height="60"/> </a>
-<a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Next.js" width="60" height="60"/> </a>
-<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original-wordmark.svg" alt="Next.js" width="60" height="60"/> </a>
-</p>
- -->
+
 ### ⚡Back End⚡:
 
 <!-- <p align="left"> 
